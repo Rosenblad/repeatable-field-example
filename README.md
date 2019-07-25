@@ -3,13 +3,13 @@
 ## Features
 
 - Field level submission
-- `initialValues` for dirty checks
+- `initialValues` and `hasChanged` helper for dirty checks
 - No unnecessary rerenders
 - Form level submission
 - Reinitialization
 - Add fields
 - Remove fields
 - Exposes values to parent component
-- Fields can be selected
+- Select field
 - Uses reducer instead of context
 - No dependencies outside of react
