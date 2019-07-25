@@ -11,3 +11,4 @@
 - Remove fields
 - Exposes values to parent component
 - Fields can be selected
+- Uses reducer instead of context
