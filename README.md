@@ -12,3 +12,4 @@
 - Exposes values to parent component
 - Fields can be selected
 - Uses reducer instead of context
+- No dependencies outside of react
